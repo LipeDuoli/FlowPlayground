@@ -4,7 +4,7 @@ This is a very simple app that I used to test how Flow collect works compared wi
 
 The app has a generic UI with general test cases such as collecting a Flow from a variable, function, combining flows, map and some others.
 
-![Screen UI](test_cases.png)
+<img src="img/test_cases.jpg" width="350" alt="Screen UI" />
 
 This is not a sample to define the correct way to use the Flow, it's just several test cases, right or not.
 
